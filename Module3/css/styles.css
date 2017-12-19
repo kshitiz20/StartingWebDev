@@ -1,0 +1,42 @@
+.navbar-brand {
+	font-style: italic ;
+	font-size: 2em;
+	text-shadow: 2px 2px gray;
+}
+#menu-tile {
+	background-color: #C1F7FF;
+  width: 100%;
+  margin-bottom: 15px;
+  position: relative;
+  border: 2px solid #3F0C1F;
+  overflow: hidden;
+}
+#chicken {
+	font-weight: bold;
+	margin-bottom: 25px;
+	margin-top: 25px;
+	font-size: 35px;
+
+
+
+}
+#menuhead{
+	font-size: 50px;
+	text-shadow: 2px 2px black;
+	font-weight: bold;
+	
+
+}
+#dummy{
+	font-size: 1.5em;
+	font-style:italic; 
+	font-weight: bold;
+}
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0; 
+}
